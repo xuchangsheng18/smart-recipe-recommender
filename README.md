@@ -1,7 +1,10 @@
 ## 技术栈与本地启动
 
 
-  注意事项 对于有些地方需要修改地址 web_service_hadnler中init方法中的index_file
+###注意事项 
+对于有些地方需要修改地址 :web_service_hadnler中init方法中的index_file
+前端本地运行需要下载node.js
+需要下载Neo4js-Desktop
 ### 前端
 - **框架**：Next.js 14
 - **样式**：Tailwind CSS
@@ -24,4 +27,7 @@
 
 2. **启动 Flask 后端**  
    ```bash
-   python app.py
+   python main.py
+2. **启动 本地前端**
+   cd frontend
+   npm run dev 
