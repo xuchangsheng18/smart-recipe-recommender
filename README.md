@@ -1,5 +1,7 @@
 ## 技术栈与本地启动
 
+
+  注意事项 对于有些地方需要修改地址 web_service_hadnler中init方法中的index_file
 ### 前端
 - **框架**：Next.js 14
 - **样式**：Tailwind CSS
