@@ -1,6 +1,6 @@
 ## 技术栈与本地启动
 
-
+屏幕截图 2026-06-18 200749.png
 ###注意事项 
 对于有些地方需要修改地址 :web_service_hadnler中init方法中的index_file
 前端本地运行需要下载node.js
